@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "description": "A high-performance laptop suitable for all your computing needs.",
+        "price": 999.99,
+        "category": "Electronics",
+        "inStock": true
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "description": "A latest-gen smartphone with all the modern features.",
+        "price": 799.99,
+        "category": "Electronics",
+        "inStock": true
+    },
+    {
+        "id": 3,
+        "name": "Bluetooth Headphones",
+        "description": "Wireless headphones with excellent sound quality.",
+        "price": 199.99,
+        "category": "Accessories",
+        "inStock": true
+    },
+    {
+        "id": 4,
+        "name": "Gaming Mouse",
+        "description": "A high-precision mouse designed for gamers.",
+        "price": 49.99,
+        "category": "Accessories",
+        "inStock": false
+    },
+    {
+        "id": 5,
+        "name": "Smartwatch",
+        "description": "A smartwatch with various health tracking features.",
+        "price": 299.99,
+        "category": "Wearables",
+        "inStock": true
+    },
+    {
+        "id": 6,
+        "name": "4K Monitor",
+        "description": "A 27-inch 4K monitor with stunning visuals.",
+        "price": 499.99,
+        "category": "Electronics",
+        "inStock": true
+    },
+    {
+        "id": 7,
+        "name": "External Hard Drive",
+        "description": "A 2TB external hard drive for your storage needs.",
+        "price": 89.99,
+        "category": "Storage",
+        "inStock": false
+    },
+    {
+        "id": 8,
+        "name": "Mechanical Keyboard",
+        "description": "A durable keyboard with mechanical switches.",
+        "price": 129.99,
+        "category": "Accessories",
+        "inStock": true
+    },
+    {
+        "id": 9,
+        "name": "Wireless Charger",
+        "description": "A fast wireless charger compatible with all Qi-enabled devices.",
+        "price": 29.99,
+        "category": "Accessories",
+        "inStock": true
+    },
+    {
+        "id": 10,
+        "name": "Action Camera",
+        "description": "A compact action camera for capturing your adventures.",
+        "price": 249.99,
+        "category": "Cameras",
+        "inStock": true
+    }
+]

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  <style>
+    body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.product-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+}
+
+.product-card h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+}
+
+.product-card h2 {
+    margin: 10px 0 0 0;
+    font-size: 20px;
+    color: #555;
+}
+
+.product-card h3 {
+    margin: 10px 0 0 0;
+    font-size: 18px;
+    color: #777;
+}
+
+.product-card p {
+    margin: 20px 0 0 0;
+    font-size: 16px;
+    color: #333;
+}
+
+  </style>
+</head>
+<body>
+    <div class="product-card">
+        <h1>Name : {%NAME%}</h1>
+        <h2>Price : {%PRICE%}</h2>
+        <h2>Category : {%CATEGORY%}</h2>
+        <h3>InStock : {%STOCK%}</h1>
+        <p>Description : {%DESCRIPTION%}</p>
+    </div>
+</body>
+</html>
